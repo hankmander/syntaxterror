@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{202:function(e,n,t){__NEXT_REGISTER_PAGE("/",function(){return e.exports=t(203),{page:e.exports.default}})},203:function(e,n,t){"use strict";t.r(n);var u=t(10),o=t.n(u);n.default=function(){return o.a.createElement("h1",null,"Leap Louder - built in React with Next.js")}}},[[202,1,0]]]);
